@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+.env/
+env/
+# Jupyter Notebook kernel metadata
+*/.metadata/
+
+# Jupyter Notebook logs
+*.log
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Python project-specific files (adjust as needed)
+*.pyproj
+*.pycproj
+*.idea/
+
+# Ignore specific Jupyter config file (optional)
+.jupyter/jupyter_notebook_config.py
+
+# Ignore custom configuration files (e.g., for extensions)
+config/
+
+# Ignore Jupyter's nbconfig folder (used by extensions)
+.nbconfig/
