@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/pradytpk/Book-Recommendation-System
+Author: pradytpk
+Author-email: pradytpk@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
 # Books Recommendation System Based on Clusterting & Collaborative
 
 ### What is recommendation System
@@ -26,10 +36,6 @@
 ### Architecture
 
 ![alt](./architecture/a-1.png)
-
-### Working
-
-![alt](./architecture/demo.gif)
 
 ### Commands
 
